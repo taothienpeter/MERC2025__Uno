@@ -1,5 +1,5 @@
 # Brief info
-This is the first version of MERC2025 robot's firmware. 
+This is the first version of MERC2025 robot's firmware that on Arduino Uno 
 # repo's file structure:
 - Automation_Param.cpp
 - Automation_Param.h
